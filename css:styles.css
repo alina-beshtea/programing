@@ -1,0 +1,33 @@
+p{
+  font-style: italic;
+  text-align: 50px;
+
+}
+
+h2{
+  text-align: center;
+  font-family:  fantasy;
+  color: navy;
+}
+
+p{
+  font-size: 20px
+}
+
+img{
+  width: 620px;
+  height: 500px;
+}
+
+
+.backgrpund: gray;
+
+.column{
+  border: solid thick navy;
+  image-orientation: float: left;
+}
+
+.intro{
+  border: solid 10px navy;
+  border-radius: 10px;
+}
